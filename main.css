@@ -1,0 +1,15 @@
+#grey {
+  background-color: #666699;
+  border-radius: 25px;
+  color: #999999;
+  padding: 10px;
+  margin: 10px;
+}
+
+#dark-blue {
+  background-color: #000099;
+  border-radius: 25px;
+  color: #999999;
+  padding: 10px;
+  margin: 10px;
+}
